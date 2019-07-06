@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SkyFloatingLabelTextField
+//  TestSkyFloating
 //
-//  Created by Gustavo Evangelista on 04/07/2019.
+//  Created by Gustavo Evangelista on 05/07/2019.
 //  Copyright © 2019 Gustavo. All rights reserved.
 //
 

@@ -1,11 +1,11 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'SkyFloatingLabelTextField' do
+target 'TestSkyFloating' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for SkyFloatingLabelTextField
+  # Pods for TestSkyFloating
 
 pod 'SkyFloatingLabelTextField', '~> 3.0'
 

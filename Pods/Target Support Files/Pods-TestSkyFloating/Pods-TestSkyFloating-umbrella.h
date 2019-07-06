@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_SkyFloatingLabelTextFieldVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_SkyFloatingLabelTextFieldVersionString[];
+FOUNDATION_EXPORT double Pods_TestSkyFloatingVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_TestSkyFloatingVersionString[];
 
